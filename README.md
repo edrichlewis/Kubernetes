@@ -22,5 +22,8 @@ Kubernetes Projects
 8. run kubectl get svc
 9. run the Minikuke service web app-service, we will receive an URL we can access it using the username: admin and password: pass
 
-10. ![image](https://github.com/edrichlewis/Kubernetes/assets/105597780/25c19a3d-6a95-40b4-984b-a7b98bbe8180)
+10.
+    ![image](https://github.com/edrichlewis/Kubernetes/assets/105597780/25c19a3d-6a95-40b4-984b-a7b98bbe8180)
+
+   Referemce: https://www.youtube.com/watch?v=7XDeI5fyj3w
 
